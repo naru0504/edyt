@@ -1,0 +1,25 @@
+{
+  "name": "edyt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "browserify": "^13.0.0",
+    "glob": "^6.0.4",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^6.1.1",
+    "gulp-load-plugins": "^1.2.0",
+    "jquery": "^2.2.0",
+    "marked": "^0.3.5"
+  },
+  "devDependencies": {
+    "babel": "^6.3.26",
+    "coffee-script": "^1.10.0",
+    "gulp-sass": "^2.1.1"
+  },
+  "scripts": {
+    "compile": "gulp compile"
+  },
+  "author": "naru0504",
+  "license": "MIT"
+}

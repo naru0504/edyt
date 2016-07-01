@@ -1,0 +1,5 @@
+.DS_Store
+npm-debug.log
+node_modules/
+edyt-darwin-x64/
+edyt-win32-x64/
